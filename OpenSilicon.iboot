@@ -1,0 +1,4 @@
+install apple.script
+file.se package
+install mac.dmg
+/mac.dmg{run.sh}
